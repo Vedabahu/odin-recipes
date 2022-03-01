@@ -26,6 +26,10 @@ No contributing guide because there is nothing to contribute.
 
 All Credits goes to [Vedabahu.](https://github.com/Vedabahu)
 
-<a href = "https://github.com/Vedabahu/odin-recipes/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Vedabahu/odin-recipes"/>
+## Contributors
+
+<a href="https://github.com/vedabahu/odin-recipes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vedabahu/odin-recipes" />
 </a>
+
+Made with [contrib.rocks](https://contrib.rocks).
