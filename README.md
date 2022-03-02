@@ -1,5 +1,10 @@
 # Odin-Recipes
 
+![Github Status of Repo](https://img.shields.io/badge/Status-Inactive-red?style=flat-square&logo=aiqfome&logoColor=cyan)
+![GitHub](https://img.shields.io/github/license/Vedabahu/odin-recipes?color=cyan&label=License&style=flat-square&logo=artifact%20hub&logoColor=cyan)
+![GitHub last commit](https://img.shields.io/github/last-commit/vedabahu/odin-recipes?style=flat-square&logo=asana&logoColor=cyan)
+![GitHub repo size](https://img.shields.io/github/repo-size/vedabahu/odin-recipes?style=flat-square)
+
 This is the repository to the Odin-Recipes. I mean that it is the assignment answer to the [Question](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes#assignment) in the [Odin Project](https://www.theodinproject.com/).
 
 It is still a basic thing so dont bother looking at it.
