@@ -13,7 +13,7 @@ It is still a basic thing so dont bother looking at it.
 
 - Clone the repo (You need git or download the zip file)
 
-```bash
+```powershell
 # if you are using http
 git clone https://github.com/Vedabahu/odin-recipes.git
 # OR if you are using ssh
